@@ -40,3 +40,6 @@
 [submodule "hernandezCar"]
 	path = hernandezCar
 	url = https://github.com/KarlWithK/07_arpstring_mks.git
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work07.git
