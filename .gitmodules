@@ -22,3 +22,6 @@
 [submodule "shenkerEth"]
 	path = shenkerEth
 	url = https://github.com/ethan-shenker/07_arpstring_systems.git
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/07_arpstring.git
