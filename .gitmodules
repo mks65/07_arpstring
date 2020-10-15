@@ -25,3 +25,6 @@
 [submodule "yeGen"]
 	path = yeGen
 	url = https://github.com/Gene1212/07_arpstring.git
+[submodule "leeLuc"]
+	path = leeLuc
+	url = https://github.com/Lucas-Lee11/07_arpstring
