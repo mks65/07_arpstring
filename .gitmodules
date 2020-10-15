@@ -37,3 +37,6 @@
 [submodule "raoIva"]
 	path = raoIva
 	url = https://github.com/irao12/systems_07_arpstring.git
+[submodule "hernandezCar"]
+	path = hernandezCar
+	url = https://github.com/KarlWithK/07_arpstring_mks.git
