@@ -19,3 +19,6 @@
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/07_arpstring.git
+[submodule "shenkerEth"]
+	path = shenkerEth
+	url = https://github.com/ethan-shenker/07_arpstring_systems.git
