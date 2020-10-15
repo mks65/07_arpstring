@@ -34,3 +34,6 @@
 [submodule "ku-benjetJer"]
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk65_07_arpsting.git
+[submodule "raoIva"]
+	path = raoIva
+	url = https://github.com/irao12/systems_07_arpstring.git
