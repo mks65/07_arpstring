@@ -46,3 +46,6 @@
 [submodule "zhouKel"]
 	path = zhouKel
 	url = https://github.com/KellyZhou223/zhouKel
+[submodule "haoGan"]
+	path = haoGan
+	url = https://github.com/haotianGan/07strings
