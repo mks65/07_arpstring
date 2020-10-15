@@ -16,3 +16,6 @@
 [submodule "huLuc"]
 	path = huLuc
 	url = https://github.com/lhu10/systems_07_arpstring.git
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/07_arpstring.git
