@@ -91,3 +91,6 @@
 [submodule "misquittaKri"]
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/Work_07.git
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work07
