@@ -76,3 +76,6 @@
 [submodule "zhaoGav"]
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw7.git
+[submodule "VostrikovVla"]
+	path = VostrikovVla
+	url = https://github.com/villinoid/07_systems
