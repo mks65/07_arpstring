@@ -64,3 +64,6 @@
 [submodule "zhangJin"]
 	path = zhangJin
 	url = https://github.com/Jinzxc/07_arpstring_J.git
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/07_arpstring.git
