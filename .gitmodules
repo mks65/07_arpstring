@@ -67,3 +67,6 @@
 [submodule "linLei"]
 	path = linLei
 	url = https://github.com/llin11/07_arpstring.git
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/07_arpstring_kevidgel
