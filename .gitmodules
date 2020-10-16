@@ -61,3 +61,6 @@
 [submodule "siniscalcoFra"]
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/07_arpstring_mks.git
+[submodule "zhangJin"]
+	path = zhangJin
+	url = https://github.com/Jinzxc/07_arpstring_J.git
