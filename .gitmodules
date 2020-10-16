@@ -82,3 +82,6 @@
 [submodule "zhengYul"]
 	path = zhengYul
 	url = https://github.com/yzheng10/07_Arpstring.git
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/07_work.git
