@@ -13,9 +13,6 @@
 [submodule "nathMic"]
 	path = nathMic
 	url = https://github.com/Michael-Nath/mnath_aps.git
-[submodule "huLuc"]
-	path = huLuc
-	url = https://github.com/lhu10/systems_07_arpstring.git
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/07_arpstring.git
@@ -106,3 +103,6 @@
 [submodule "07arpstring"]
 	path = zhouKel
 	url = https://github.com/KellyZhou223/07arpstring.git
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_07_arpstring.git
