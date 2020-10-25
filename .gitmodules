@@ -79,9 +79,33 @@
 [submodule "VostrikovVla"]
 	path = VostrikovVla
 	url = https://github.com/villinoid/07_systems
-[submodule "zhengYul"]
-	path = zhengYul
-	url = https://github.com/yzheng10/07_Arpstring.git
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/07_work.git
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-07_arpstring.git
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_07.git
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work07
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/chanSer.git
+[submodule "liuAlic"]
+	path = liuAlic
+	url = https://github.com/aliu889/07_arpstring_.git
+[submodule "sahaAbh"]
+	path = sahaAbh
+	url = https://github.com/AbhijeetSaha2142/07_arpstring.git
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-07.git
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/07_arpstring
+[submodule "zhengYul"]
+	path = zhengYul
+	url = https://github.com/yzheng10/07_Arpstring.git
