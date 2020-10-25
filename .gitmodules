@@ -79,9 +79,6 @@
 [submodule "VostrikovVla"]
 	path = VostrikovVla
 	url = https://github.com/villinoid/07_systems
-[submodule "zhengYul"]
-	path = zhengYul
-	url = https://github.com/yzheng10/07_Arpstring.git
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/07_work.git
@@ -109,3 +106,6 @@
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/07_arpstring
+[submodule "zhengYul"]
+	path = zhengYul
+	url = https://github.com/yzheng10/07_Arpstring.git
